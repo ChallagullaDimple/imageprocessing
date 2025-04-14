@@ -17,5 +17,3 @@ This project demonstrates an image processing system built using AWS serverless 
 - API Gateway
 - Amazon Textract
 - AWS Cognito
-
-## 📁 Folder Structure
